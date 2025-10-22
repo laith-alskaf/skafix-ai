@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-brand-primary: #14b8a6;
+    /* teal-500 */
+    --color-brand-secondary: #f59e0b;
+    /* amber-500 */
+    --color-base-100: #111827;
+    /* gray-900 */
+    --color-base-200: #1f2937;
+    /* gray-800 */
+    --color-base-300: #374151;
+    /* gray-700 */
+    --color-text-primary: #f9fafb;
+    /* gray-700 */
+    --color-text-secondary: #9ca3af;
+    /* gray-700 */
+  --font-sans: 'Cairo', 'sans-serif';
+}
